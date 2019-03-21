@@ -16,3 +16,7 @@ would branches help?
 	branches make a second copy that can be modified and tracked apart from the master. 
 
 
+What are the pros and cons of Git's automatic merging vs always doing merges manually? 
+
+	auto merge can help save time if there are a large amount of differences. manual merger
+	is better for deciding what is to be merged if there is a conflict. 
