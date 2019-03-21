@@ -9,4 +9,10 @@ you think it offers?
 	directory and repository are basically the same and hold all of the files that are 
 	tracked.  staging area can be cleared to revert changes? 
 
+What are some situations when branches would be helpful in keeping your history organized? How
+would branches help?
+	
+	changes to code, but want to keep the original. experimental features. 
+	branches make a second copy that can be modified and tracked apart from the master. 
+
 
