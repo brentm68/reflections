@@ -18,7 +18,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    if changes are made to the remote before your local changes are merged
+	you would want to review those changes to make sure that they don't
+	overwrite your changes, or your changes overwrite the remote changes. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
