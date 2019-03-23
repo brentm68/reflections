@@ -33,4 +33,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    making changes in a branch allow the changes to be tested and reviewed without changing
+	or breaking the master branch. i can't see any benefit gain by changing the master
+	when you have the option to branch and make changes without hurting the master. 
