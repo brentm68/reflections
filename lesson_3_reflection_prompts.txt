@@ -25,7 +25,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    we could send files back and forth, or some kind of screen sharing, or some kind of
+	colaboration group chat type deal.  sending files back and forth would be hardest, 
+	screen sharing would be easier, but easiest with group chat and screen sharing and
+	github. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
